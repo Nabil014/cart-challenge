@@ -1,4 +1,4 @@
-﻿# Ejercicio de entrevista, carrito de compras
+﻿# Ejercicio de entrevista, carrito de compras React - Tailwind
 
 ![01](https://raw.githubusercontent.com/goncy/interview-challenges/main/simple-cart/assets/screenshot-0.jpg)
 
