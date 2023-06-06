@@ -1,6 +1,6 @@
 ﻿# Ejercicio de entrevista, carrito de compras
 
-![01](./assets/screenshot-0.jpg)
+![01](https://raw.githubusercontent.com/goncy/interview-challenges/main/simple-cart/assets/screenshot-0.jpg)
 
 Este proyecto tiene 3 milestones o entregas, no es necesario que cumplas todas para dar el proyecto por terminado, ajustalo a tus necesidades y conocimientos. Cada entrega se vuelve un poco más difícil.
 
